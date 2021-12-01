@@ -1,4 +1,4 @@
-👋 **Hello world, my name is SultanRancho !** I'm a big fan of computer programming and discover new things about digital.
+👋 **Hello world, my name is SultanRancho !** I'm a big fan of computer programming and I love discover new things about digital.
 
 The language I use or I know are:
 - Python (mainly)
