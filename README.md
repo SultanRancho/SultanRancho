@@ -11,4 +11,4 @@ And this a (very long) list of my public repos:
 
 📫 You can contact me here (if your are not a bot) :
 
-![This is an image](https://raw.githubusercontent.com/SultanRancho/Whatson/main/divers/mail.png)
+![This is an image](https://raw.githubusercontent.com/SultanRancho/SultanRancho/main/mail.png)
