@@ -4,11 +4,12 @@ The language I use or I know are:
 - Python (mainly)
 - HTML/CSS/JAVASCRIPT
 - Php
-- C
+- Rust
 
 And this a (very long) list of my public repos: 
 - [FromSafeSource](https://github.com/SultanRancho/FromSafeSource)
 - [Qapharnaum](https://github.com/SultanRancho/Qapharnaum)
+- [Shiffrey](https://github.com/SultanRancho/Shiffrey)
 
 📫 You can contact me here (if your are not a bot) :
 
